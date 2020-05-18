@@ -20,6 +20,6 @@ public class AppTest {
 	
 	@Test
 	public void testNPEix() {
-		Assert.assertEquals(10, App.nPEix(4,6));
+		Assert.assertEquals(10, App.nPEix(4,3));
 	}
 }
