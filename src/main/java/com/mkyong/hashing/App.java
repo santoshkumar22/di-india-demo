@@ -18,7 +18,7 @@ public class App {
         return DigestUtils.sha256Hex(input);
     }
 
-	public static String NPEix(int input,int input2) {
+	public static int nPEix(int input,int input2) {
         return input+input2;
     }
 }
